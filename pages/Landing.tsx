@@ -1,0 +1,1 @@
+// This file is deprecated. The Home page is now the main entry point.
